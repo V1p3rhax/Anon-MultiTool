@@ -1,4 +1,4 @@
-[![Code Quality Score](https://www.code-inspector.com/project/19644/score/svg)
+!Code Quality Score(https://www.code-inspector.com/project/19644/score/svg)
 # Anon-MultiTool
 ![GitHub Logo](tools.png)
 
